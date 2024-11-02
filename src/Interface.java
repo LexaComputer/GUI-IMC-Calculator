@@ -40,7 +40,7 @@ public class Interface extends JFrame implements ActionListener{
          *  saltos de lineas en el JLabel.
          * */
         imcTable = new JLabel("<html><body>&emsp;~ IMC Table ~ <br><br><18.5 Underweight<br>18.5-24.9 Healthy<br>25.0-29.9 Overweight<br>30.0-34.9 Obesity I" +
-                "<br>35.0-39.9 Obesity II<br>>40 Obesisty III</body></html>");
+                "<br>35.0-39.9 Obesity II<br>>40 Obesity III</body></html>");
         imcTable.setBounds(230,10,140,125);
         add(imcTable);
 
